@@ -1,0 +1,1 @@
+I was able to implement everything for this homework besides the spotlight which is the extra credit. Everything works perfectly though.
